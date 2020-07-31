@@ -1,0 +1,112 @@
+﻿ Mage;21836;21237;21707
+ Mage;21603;21671;21647
+ Mage;21676;20926;21696
+ Mage;20932;20927;21648
+ Mage;21622;21686;0
+ Mage;21597;0;0
+ Mage;21608;0;0
+ Mage;20933;0;0
+ Mage;21221;0;0
+ Mage;22731;0;0
+ Mage;22730;0;0
+ Mage;21585;0;0
+ Tank;21232;21814;21601
+ Tank;21706;21695;0
+ Tank;21700;21685;0
+ Tank;21701;21688;0
+ Tank;21674;21677;0
+ Tank;21639;21618;0
+ Tank;20928;21221;0
+ Tank;21621;0;0
+ Tank;21598;0;0
+ Tank;20926;0;0
+ Tank;20929;0;0
+ Tank;22732;0;0
+ Tank;21581;0;0
+ Tank;21126;0;0
+ Fury;21814;21232;0
+ Fury;21651;21701;0
+ Fury;21650;21688;0
+ Fury;21664;21670;0
+ Fury;21647;21677;0
+ Fury;20928;23570;0
+ Fury;21618;23557;0
+ Fury;21134;21221;0
+ Fury;21581;21126;0
+ Fury;0;20929;0
+ Fury;0;21837;0
+ Rouge;21232;21672;21708
+ Rouge;21701;21670;21702
+ Rouge;21673;21664;21682
+ Rouge;21650:21677:21616
+ Rouge;20928;21602;0
+ Rouge;20930;23557;0
+ Rouge;20927;21221;0
+ Rouge;23570;0;0
+ Rouge;20929;0;0
+ Rouge;21586;0;0
+ Rouge;21126;0;0
+ Warlock;21603;21836;21838
+ Warlock;20932;21237;21707
+ Warlock;21622;21671;21687
+ Warlock;21597;21647;21648
+ Warlock;21608;20927;21627
+ Warlock;21221;20931;20933
+ Warlock;22731;0;0
+ Warlock;22730;0;0
+ Warlock;21585;0;0
+ Hunter;21673;21616;21635
+ Hunter;21677;0;21599
+ Hunter;23570;0;0
+ Hunter;23557;0;0
+ Hunter;21596;0;0
+ Holy Priest;21694;21237;0
+ Holy Priest;21666;21690;0
+ Holy Priest;21663;21221;0
+ Holy Priest;21619;0;0
+ Holy Priest;21620;0;0
+ Holy Priest;21604;0;0
+ Holy Priest;21615;0;0
+ Holy Priest;21583;;0
+ Holy Priest;21582;0;0
+ Holy Priest;21839;0;0
+ Shadow Priest;21603;21237;0
+ Shadow Priest;21611;20933;0
+ Shadow Priest;22731;22730;0
+ Holy Pala;21667;21690;0
+ Holy Pala;21666;21683:0
+ Holy Pala;21663;21608;0
+ Holy Pala;21620;21221;0
+ Holy Pala;21604;21582;0
+ Holy Pala;21615;21889;0
+ Holy Pala;21583;0;0
+ Holy Pala;21839;0;0
+ Retri Pala;20932;0;0
+ Retri Pala;20930;0;0
+ Retri Pala;21679;0;0
+ Retri Pala;20931;0;0
+ Retri Pala;20929;0;0
+ Restro Druid;21666;21237;0
+ Restro Druid;21663;21221;0
+ Restro Druid;22399;21582;0
+ Restro Druid;21617;0;0
+ Restro Druid;21620;0;0
+ Restro Druid;21604;0;0
+ Restro Duid:21615;0;0
+ Restro Druid;21583;0;0
+ Restro Druid;21839;0;0
+ Feral Druid;21237;21693;21888
+ Feral Druid;21701;21675;21645
+ Feral Druid;21672;21670;21682
+ Feral Druid;21665;21602;21702
+ Feral Druid;22732;21601;21708
+ Feral Druid;21602;21605;0
+ Feral Druid;0;20931;0
+ Feral Druid;0;21221;0
+ Feral Druid;0;21586;0
+ Boomkin;21597;21237;0
+ Boomkin;21608;0;0
+ Boomkin;21221;0;0
+ Boomkin;22731;0;0
+ Boomkin;22730;0;0
+ Boomkin;21585;0;0
