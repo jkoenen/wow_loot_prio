@@ -1,0 +1,108 @@
+Mage;21836;21237;21707
+Mage;21603;21686;21696
+Mage;21676;21671;21648
+Mage;20932;20926;21647
+Mage;21622;20927;0
+Mage;21597;0;0
+Mage;21608;0;0
+Mage;20933;0;0
+Mage;21221;0;0
+Mage;22731;0;0
+Mage;22730;0;0
+Mage;21585;0;0
+Krieger Tank;21232;21814;21601
+Krieger Tank;21706;21695;0
+Krieger Tank;21700;21685;0
+Krieger Tank;21701;21688;0
+Krieger Tank;21674;21677;0
+Krieger Tank;21639;21618;0
+Krieger Tank;20928;21221;0
+Krieger Tank;21621;0;0
+Krieger Tank;21598;0;0
+Krieger Tank;20926;0;0
+Krieger Tank;20929;0;0
+Krieger Tank;22732;0;0
+Krieger Tank;21581;0;0
+Krieger Tank;21126;0;0
+Krieger Fury;21814;21232;0
+Krieger Fury;21651;21701;0
+Krieger Fury;21650;21688;0
+Krieger Fury;21664;21670;0
+Krieger Fury;21647;21677;0
+Krieger Fury;20928;23557;0
+Krieger Fury;21618;20929;0
+Krieger Fury;21581;21221;0
+Krieger Fury;21134;21126;0
+Schurke;21232;21672;21708
+Schurke;21701;21670;21702
+Schurke;21673;21664;21682
+Schurke;21650;21677;21616
+Schurke;20928;21602;0
+Schurke;20930;23557;0
+Schurke;20927;21221;0
+Schurke;20929;0;0
+Schurke;21586;0;0
+Schurke;21126;0;0
+Hexenmeister;21603;21836;21838
+Hexenmeister;20932;21237;21707
+Hexenmeister;21622;21671;21687
+Hexenmeister;21597;21647;21648
+Hexenmeister;21608;20926;21627
+Hexenmeister;21221;20931;20933
+Hexenmeister;22731;0;0
+Hexenmeister;22730;0;0
+Hexenmeister;21585;0;0
+Jäger;21673;21616;21635
+Jäger;21677;0;21599
+Jäger;23557;0;0
+Jäger;21596;0;0
+Priester Holy;21694;21237;0
+Priester Holy;21666;21690;0
+Priester Holy;21663;21221;0
+Priester Holy;21619;0;0
+Priester Holy;21620;0;0
+Priester Holy;21604;0;0
+Priester Holy;21615;0;0
+Priester Holy;21583;0;0
+Priester Holy;21582;0;0
+Priester Holy;21839;0;0
+Priester Shadow;21603;21237;0
+Priester Shadow;21611;20933;0
+Priester Shadow;22731;22730;0
+Paladin Holy;21667;21889;0
+Paladin Holy;21666;21690;0
+Paladin Holy;21663;21683;0
+Paladin Holy;21620;21608;0
+Paladin Holy;21604;21221;0
+Paladin Holy;21615;21582;0
+Paladin Holy;21583;0;0
+Paladin Holy;21839;0;0
+Paladin Retri;20932;0;0
+Paladin Retri;20930;0;0
+Paladin Retri;21679;0;0
+Paladin Retri;20931;0;0
+Paladin Retri;20929;0;0
+Resto Druide;21666;21237;0
+Resto Druide;21663;21221;0
+Resto Druide;22399;21582;0
+Resto Druide;21617;0;0
+Resto Druide;21620;0;0
+Resto Druide;21604;0;0
+Resto Druide;21615;0;0
+Resto Druide;21583;0;0
+Resto Druide;21839;0;0
+Katze;21237;21693;21888
+Katze;21701;21675;21708
+Katze;21680;21670;21702
+Katze;21672;21601;21682
+Katze;21665;21605;21645
+Katze;21602;20931;0
+Katze;0;21221;0
+Katze;0;22732;0
+Katze;0;21586;0
+Boomkin;21597;21237;0
+Boomkin;21608;0;0
+Boomkin;21221;0;0
+Boomkin;22731;0;0
+Boomkin;22730;0;0
+Boomkin;21585;0;0
