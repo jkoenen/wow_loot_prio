@@ -15,14 +15,13 @@ Krieger Tank;21700;21685;0
 Krieger Tank;21701;21688;0
 Krieger Tank;21674;21677;0
 Krieger Tank;21639;21618;0
-Krieger Tank;20928;0;0
+Krieger Tank;20928;21126;0
 Krieger Tank;21621;0;0
 Krieger Tank;21598;0;0
 Krieger Tank;20926;0;0
 Krieger Tank;20929;0;0
 Krieger Tank;22732;0;0
 Krieger Tank;21581;0;0
-Krieger Tank;21126;0;0
 Krieger Fury;21814;21232;0
 Krieger Fury;21651;21701;0
 Krieger Fury;21650;21688;0
