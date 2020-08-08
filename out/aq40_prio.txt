@@ -45,9 +45,9 @@ Hexenmeister;21603;21836;21838
 Hexenmeister;20932;21237;21707
 Hexenmeister;21622;21671;21687
 Hexenmeister;21597;21647;21648
-Hexenmeister;21608;20926;21627
-Hexenmeister;22731;20931;20933
-Hexenmeister;22730;0;0
+Hexenmeister;21608;21600;21627
+Hexenmeister;22731;20926;20933
+Hexenmeister;22730;20931;0
 Hexenmeister;21585;0;0
 Jäger;21673;21616;21635
 Jäger;21677;0;21599
@@ -64,8 +64,12 @@ Priester Holy;21583;0;0
 Priester Holy;21582;0;0
 Priester Holy;21839;0;0
 Priester Shadow;21603;21237;0
-Priester Shadow;21611;20933;0
-Priester Shadow;22731;22730;0
+Priester Shadow;21600;21671;0
+Priester Shadow;21611;21597;0
+Priester Shadow;22731;20926;0
+Priester Shadow;21585;20927;0
+Priester Shadow;0;20933;0
+Priester Shadow;0;22730;0
 Paladin Holy;21667;21889;0
 Paladin Holy;21666;21690;0
 Paladin Holy;21663;21683;0
